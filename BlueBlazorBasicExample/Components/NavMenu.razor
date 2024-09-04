@@ -1,0 +1,63 @@
+﻿@using System.Text.Json
+@inject NavigationManager NavigationManager
+
+<SidebarMenu>
+    <TopContent>
+    </TopContent>
+    <ChildContent>
+        <MenuItem Label="Home" Href="" IsActive="@isActive("")">
+            <Icon>
+                <BiHouse />
+            </Icon>
+            <IconForActive>
+                <BiHouseFill />
+            </IconForActive>
+        </MenuItem>
+        <MenuItem Label="About" Href="about" IsActive="@isActive("about")">
+            <Icon>
+                <BiQuestion />
+            </Icon>
+            <IconForActive>
+                <BiQuestionCircle />
+            </IconForActive>
+        </MenuItem>
+    </ChildContent>
+    <BottomContent>
+        <MenuItem Label="Code on GitHub" Href="https://github.com/bruegmann/blue-blazor" Target="_blank">
+            <Icon>
+                <BiCodeSquare />
+            </Icon>
+        </MenuItem>
+    </BottomContent>
+</SidebarMenu>
+
+@code {
+    public void Dispose()
+    {
+        NavigationManager.LocationChanged -= handleLocationChanged;
+    }
+
+    protected override async Task OnInitializedAsync()
+    {
+        NavigationManager.LocationChanged += handleLocationChanged;
+    }
+
+    void handleLocationChanged(object? sender, LocationChangedEventArgs e)
+    {
+        StateHasChanged();
+    }
+
+    bool isActive(string href)
+    {
+        var uri = NavigationManager.ToAbsoluteUri(href);
+
+        Console.WriteLine($"NavigationManager.Uri: {NavigationManager.Uri}");
+
+        if (NavigationManager.Uri == uri.ToString())
+        {
+            return true;
+        }
+
+        return false;
+    }
+}

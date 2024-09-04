@@ -1,0 +1,38 @@
+﻿@page "/"
+@using Microsoft.AspNetCore.Components.Web
+@namespace BlueBlazorBasicExample.Pages
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <base href="~/" />
+    <link href="css/site.css" rel="stylesheet" />
+    <component type="typeof(HeadOutlet)" render-mode="ServerPrerendered" />
+    <link rel="stylesheet" href="_content/BlueBlazor/css/blue-web.min.css" />
+    <link rel="stylesheet"
+          href="css/themify-theme.css"
+          media="(prefers-color-scheme: light)" />
+    <link rel="stylesheet"
+          href="css/themify-theme-dark.css"
+          media="(prefers-color-scheme: dark)" />
+
+</head>
+<body>
+    <component type="typeof(App)" render-mode="ServerPrerendered" />
+
+    <div id="blazor-error-ui">
+        <environment include="Staging,Production">
+            An error has occurred. This application may no longer respond until reloaded.
+        </environment>
+        <environment include="Development">
+            An unhandled exception has occurred. See browser dev tools for details.
+        </environment>
+        <a href="" class="reload">Reload</a>
+        <a class="dismiss">🗙</a>
+    </div>
+
+    <script src="_framework/blazor.server.js"></script>
+</body>
+</html>

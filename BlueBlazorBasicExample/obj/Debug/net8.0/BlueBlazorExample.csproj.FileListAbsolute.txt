@@ -1,0 +1,8 @@
+C:\Users\jph\source\repos\BlazorApp4\EmptyBlazorApp1\obj\Debug\net8.0\BlueBlazorExample.csproj.AssemblyReference.cache
+C:\Users\jph\source\repos\BlazorApp4\EmptyBlazorApp1\obj\Debug\net8.0\BlueBlazorExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jph\source\repos\BlazorApp4\EmptyBlazorApp1\obj\Debug\net8.0\BlueBlazorExample.AssemblyInfoInputs.cache
+C:\Users\jph\source\repos\BlazorApp4\EmptyBlazorApp1\obj\Debug\net8.0\BlueBlazorExample.AssemblyInfo.cs
+C:\Users\jph\source\repos\BlazorApp4\EmptyBlazorApp1\obj\Debug\net8.0\BlueBlazorExample.csproj.CoreCompileInputs.cache
+C:\Users\jph\source\repos\BlazorApp4\EmptyBlazorApp1\obj\Debug\net8.0\BlueBlazorExample.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\jph\source\repos\BlazorApp4\EmptyBlazorApp1\obj\Debug\net8.0\BlueBlazorExample.RazorAssemblyInfo.cache
+C:\Users\jph\source\repos\BlazorApp4\EmptyBlazorApp1\obj\Debug\net8.0\BlueBlazorExample.RazorAssemblyInfo.cs

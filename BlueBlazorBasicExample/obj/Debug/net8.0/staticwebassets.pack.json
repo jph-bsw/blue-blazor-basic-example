@@ -1,0 +1,33 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\jph\\source\\repos\\BlazorApp4\\BlueBlazorBasicExample\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\jph\\source\\repos\\BlazorApp4\\BlueBlazorBasicExample\\wwwroot\\css\\themify-theme-dark.css",
+      "PackagePath": "staticwebassets\\css\\themify-theme-dark.css"
+    },
+    {
+      "Id": "C:\\Users\\jph\\source\\repos\\BlazorApp4\\BlueBlazorBasicExample\\wwwroot\\css\\themify-theme.css",
+      "PackagePath": "staticwebassets\\css\\themify-theme.css"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.BlueBlazorBasicExample.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.BlueBlazorBasicExample.props",
+      "PackagePath": "build\\BlueBlazorBasicExample.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.BlueBlazorBasicExample.props",
+      "PackagePath": "buildMultiTargeting\\BlueBlazorBasicExample.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.BlueBlazorBasicExample.props",
+      "PackagePath": "buildTransitive\\BlueBlazorBasicExample.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

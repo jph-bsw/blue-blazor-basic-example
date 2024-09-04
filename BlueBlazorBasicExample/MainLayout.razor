@@ -1,0 +1,27 @@
+﻿﻿@using System.Text.Json
+@inherits LayoutComponentBase
+@inject NavigationManager NavigationManager
+
+<Layout>
+    <SideContent>
+        <NavMenu />
+    </SideContent>
+
+    <PageContent>
+        @Body
+    </PageContent>
+</Layout>
+
+@code {
+    bool isActive(string href)
+    {
+        var uri = NavigationManager.ToAbsoluteUri(href);
+
+        if (NavigationManager.Uri == uri.ToString())
+        {
+            return true;
+        }
+
+        return false;
+    }
+}

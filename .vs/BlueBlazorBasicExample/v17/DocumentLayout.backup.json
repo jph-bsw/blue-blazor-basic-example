@@ -1,0 +1,160 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jph\\source\\repos\\BlazorApp4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1A9AEF84-ACAF-433F-BF0B-72C7D0A571C5}|BlueBlazorBasicExample\\BlueBlazorBasicExample.csproj|c:\\users\\jph\\source\\repos\\blazorapp4\\blueblazorbasicexample\\pages\\_host.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1A9AEF84-ACAF-433F-BF0B-72C7D0A571C5}|BlueBlazorBasicExample\\BlueBlazorBasicExample.csproj|solutionrelative:blueblazorbasicexample\\pages\\_host.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A9AEF84-ACAF-433F-BF0B-72C7D0A571C5}|BlueBlazorBasicExample\\BlueBlazorBasicExample.csproj|c:\\users\\jph\\source\\repos\\blazorapp4\\blueblazorbasicexample\\wwwroot\\css\\themify-theme.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{1A9AEF84-ACAF-433F-BF0B-72C7D0A571C5}|BlueBlazorBasicExample\\BlueBlazorBasicExample.csproj|solutionrelative:blueblazorbasicexample\\wwwroot\\css\\themify-theme.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A9AEF84-ACAF-433F-BF0B-72C7D0A571C5}|BlueBlazorBasicExample\\BlueBlazorBasicExample.csproj|c:\\users\\jph\\source\\repos\\blazorapp4\\blueblazorbasicexample\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{1A9AEF84-ACAF-433F-BF0B-72C7D0A571C5}|BlueBlazorBasicExample\\BlueBlazorBasicExample.csproj|solutionrelative:blueblazorbasicexample\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A9AEF84-ACAF-433F-BF0B-72C7D0A571C5}|BlueBlazorBasicExample\\BlueBlazorBasicExample.csproj|c:\\users\\jph\\source\\repos\\blazorapp4\\blueblazorbasicexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A9AEF84-ACAF-433F-BF0B-72C7D0A571C5}|BlueBlazorBasicExample\\BlueBlazorBasicExample.csproj|solutionrelative:blueblazorbasicexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A9AEF84-ACAF-433F-BF0B-72C7D0A571C5}|BlueBlazorBasicExample\\BlueBlazorBasicExample.csproj|c:\\users\\jph\\source\\repos\\blazorapp4\\blueblazorbasicexample\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1A9AEF84-ACAF-433F-BF0B-72C7D0A571C5}|BlueBlazorBasicExample\\BlueBlazorBasicExample.csproj|solutionrelative:blueblazorbasicexample\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A9AEF84-ACAF-433F-BF0B-72C7D0A571C5}|BlueBlazorBasicExample\\BlueBlazorBasicExample.csproj|c:\\users\\jph\\source\\repos\\blazorapp4\\blueblazorbasicexample\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1A9AEF84-ACAF-433F-BF0B-72C7D0A571C5}|BlueBlazorBasicExample\\BlueBlazorBasicExample.csproj|solutionrelative:blueblazorbasicexample\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A9AEF84-ACAF-433F-BF0B-72C7D0A571C5}|BlueBlazorBasicExample\\BlueBlazorBasicExample.csproj|c:\\users\\jph\\source\\repos\\blazorapp4\\blueblazorbasicexample\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1A9AEF84-ACAF-433F-BF0B-72C7D0A571C5}|BlueBlazorBasicExample\\BlueBlazorBasicExample.csproj|solutionrelative:blueblazorbasicexample\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A9AEF84-ACAF-433F-BF0B-72C7D0A571C5}|BlueBlazorBasicExample\\BlueBlazorBasicExample.csproj|c:\\users\\jph\\source\\repos\\blazorapp4\\blueblazorbasicexample\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1A9AEF84-ACAF-433F-BF0B-72C7D0A571C5}|BlueBlazorBasicExample\\BlueBlazorBasicExample.csproj|solutionrelative:blueblazorbasicexample\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Host.cshtml",
+              "DocumentMoniker": "C:\\Users\\jph\\source\\repos\\BlazorApp4\\BlueBlazorBasicExample\\Pages\\_Host.cshtml",
+              "RelativeDocumentMoniker": "BlueBlazorBasicExample\\Pages\\_Host.cshtml",
+              "ToolTip": "C:\\Users\\jph\\source\\repos\\BlazorApp4\\BlueBlazorBasicExample\\Pages\\_Host.cshtml",
+              "RelativeToolTip": "BlueBlazorBasicExample\\Pages\\_Host.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-04T08:20:55.318Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "themify-theme.css",
+              "DocumentMoniker": "C:\\Users\\jph\\source\\repos\\BlazorApp4\\BlueBlazorBasicExample\\wwwroot\\css\\themify-theme.css",
+              "RelativeDocumentMoniker": "BlueBlazorBasicExample\\wwwroot\\css\\themify-theme.css",
+              "ToolTip": "C:\\Users\\jph\\source\\repos\\BlazorApp4\\BlueBlazorBasicExample\\wwwroot\\css\\themify-theme.css",
+              "RelativeToolTip": "BlueBlazorBasicExample\\wwwroot\\css\\themify-theme.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-09-04T08:20:51.309Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\jph\\source\\repos\\BlazorApp4\\BlueBlazorBasicExample\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "BlueBlazorBasicExample\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\jph\\source\\repos\\BlazorApp4\\BlueBlazorBasicExample\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "BlueBlazorBasicExample\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-09-04T08:20:50.4Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\jph\\source\\repos\\BlazorApp4\\BlueBlazorBasicExample\\Program.cs",
+              "RelativeDocumentMoniker": "BlueBlazorBasicExample\\Program.cs",
+              "ToolTip": "C:\\Users\\jph\\source\\repos\\BlazorApp4\\BlueBlazorBasicExample\\Program.cs",
+              "RelativeToolTip": "BlueBlazorBasicExample\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T08:20:38.692Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainLayout.razor",
+              "DocumentMoniker": "C:\\Users\\jph\\source\\repos\\BlazorApp4\\BlueBlazorBasicExample\\MainLayout.razor",
+              "RelativeDocumentMoniker": "BlueBlazorBasicExample\\MainLayout.razor",
+              "ToolTip": "C:\\Users\\jph\\source\\repos\\BlazorApp4\\BlueBlazorBasicExample\\MainLayout.razor",
+              "RelativeToolTip": "BlueBlazorBasicExample\\MainLayout.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-04T08:20:35.903Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\jph\\source\\repos\\BlazorApp4\\BlueBlazorBasicExample\\appsettings.json",
+              "RelativeDocumentMoniker": "BlueBlazorBasicExample\\appsettings.json",
+              "ToolTip": "C:\\Users\\jph\\source\\repos\\BlazorApp4\\BlueBlazorBasicExample\\appsettings.json",
+              "RelativeToolTip": "BlueBlazorBasicExample\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-04T08:20:33.275Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "App.razor",
+              "DocumentMoniker": "C:\\Users\\jph\\source\\repos\\BlazorApp4\\BlueBlazorBasicExample\\App.razor",
+              "RelativeDocumentMoniker": "BlueBlazorBasicExample\\App.razor",
+              "ToolTip": "C:\\Users\\jph\\source\\repos\\BlazorApp4\\BlueBlazorBasicExample\\App.razor",
+              "RelativeToolTip": "BlueBlazorBasicExample\\App.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-04T08:20:30.071Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_Imports.razor",
+              "DocumentMoniker": "C:\\Users\\jph\\source\\repos\\BlazorApp4\\BlueBlazorBasicExample\\_Imports.razor",
+              "RelativeDocumentMoniker": "BlueBlazorBasicExample\\_Imports.razor",
+              "ToolTip": "C:\\Users\\jph\\source\\repos\\BlazorApp4\\BlueBlazorBasicExample\\_Imports.razor",
+              "RelativeToolTip": "BlueBlazorBasicExample\\_Imports.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-04T08:20:04.488Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
